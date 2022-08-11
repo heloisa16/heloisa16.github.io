@@ -1,0 +1,25 @@
+header{
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    border: 8px solid rgb(43, 41, 41);
+    width: 195px;
+}
+.titulo{
+    font-size: 38px;
+    color:rgb(14, 13, 13);
+}
+.subtitulo{
+    font-size: 28px;
+    color:rgb(165, 5, 5)
+}
+.contato{
+    font-size: 18px;
+    font-family: Arial;
+    font-weight: bold;
+    line-height: 150%;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
